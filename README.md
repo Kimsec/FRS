@@ -1,5 +1,5 @@
 # FRS
-tested and working on Raspberry Pie with python 3.7
+tested and working on Raspberry Pi 4b 8GB with python 3.7
 
 
 Required plugins:
