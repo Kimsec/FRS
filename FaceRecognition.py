@@ -74,10 +74,10 @@ def TWOFA(name):
 	Use the code: """
 
 	port = 465  # For SSL
-	smtp_server = "smtp.gmail.com"
-	sender_email = "ikeaproject1337@gmail.com"
+	smtp_server = "smtp.example.com"
+	sender_email = "mailadcdress"
 	receiver_email = name
-	password = "IKEA1337"
+	password = "password"
 	message = random_message + randomcode
 	context = ssl.create_default_context()
 	with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
