@@ -1,6 +1,8 @@
 # Face Recognition Software
 tested and working on Raspberry Pi 4b 8GB with python 3.7
 
+## My long term idea was to get this working with 3D Scanning (such as FaceID) technology and implement it in door locks and start selling Door locks with fingerprint, PIN and Face Recognition. 
+
 
 ### Requirements:
 
