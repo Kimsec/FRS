@@ -1,4 +1,4 @@
-# FRS
+# Face-recognition Software
 tested and working on Raspberry Pi 4b 8GB with python 3.7
 
 
